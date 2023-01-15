@@ -1,0 +1,42 @@
+
+
+.navbar{
+    display: flex;
+    align-items: center;
+    
+    height: 60px;
+    padding: 5px;
+    font-size: 20px;
+    background-color: rgb(235, 232, 232);
+    
+    
+}
+.navbar>div:nth-child(1){
+    font-weight: 700;
+    margin-left: 30px;
+    width:300px;
+   text-decoration: none;
+   
+   
+}
+.navbar>div:nth-child(2){
+  
+   font-weight: 700;
+    margin-left: 1000px;
+}
+.navbar>div:nth-child(3){
+    
+    display: flex;
+    justify-content: space-around;
+    background-color:rgb(183, 179, 179);
+    width: 100px;
+    position: static;
+    margin: auto;
+    margin-left: 20px;
+    height: 60px;
+    padding-right: 5px;
+    font-size: 18px;
+    
+}
+
+
