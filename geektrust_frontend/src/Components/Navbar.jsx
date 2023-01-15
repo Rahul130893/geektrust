@@ -1,7 +1,6 @@
 import React from "react";
 import styles from "./Navbar.module.css";
 import { HiShoppingCart } from "react-icons/hi";
-import { Counter } from "./Counter";
 import { Link } from "react-router-dom";
 import { CartContext } from "../Context/CartContext";
 import { useContext } from "react";
